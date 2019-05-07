@@ -1,8 +1,14 @@
 body{
-    background-color: rebeccapurple;
+    background-color: orchid
 }
 img#fotografia{
     height: 400px;
-    width: 400px;
+    width: 370px;
+    margin-left: 500px;
     
 }
+
+P  {text-align: center}
+H2 {text-align: center}
+H1 {text-align: Center}
+H5 {text-align: Center}
