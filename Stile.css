@@ -1,22 +1,21 @@
-body{
-    background-color: orchid
+h1,h3{
+    color: darkorchid
 }
-img#fotografia{
-    height: 350px;
-    width: 370px;
-    margin-left: 500px;
-    
+img#foto{
+    height: 200px;
+    width: 200px;
+    display: table;
 }
-
-P  {text-align: center}
-H2 {text-align: center}
-H1 {text-align: Center}
-H5 {text-align: Center}
-img{border-radius: 500px}
-    
-    h1,h2 { 
-        color: bisque
-    }
-    p,h5{
-        color:azure
-    }
+h1{
+    width: 75%;
+    display: inline-block;
+    vertical-align: middle;
+    text-align: center;
+}
+#nome{
+    display: inline;
+    float: right;
+}
+.linha{
+    border-top: 2px solid black;
+}
